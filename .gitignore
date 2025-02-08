@@ -1,0 +1,11 @@
+venv/
+env/
+
+**/__pycache__/
+
+*.log
+
+.DS_Store
+*.code-workspace
+
+node_modules/
